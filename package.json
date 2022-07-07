@@ -1,0 +1,8 @@
+{
+  "name": "bun-svelte",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "svelte": "latest"
+  }
+}
